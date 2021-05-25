@@ -56,13 +56,13 @@ Below are screen captures for the simulation. A similar simulation is also done 
 ### Unity Simulation:
 https://user-images.githubusercontent.com/61026273/119505369-80dc7480-bd8a-11eb-900c-1826fd01f65e.mp4
 
-The rqt_graph for the same:
+The rqt_graph for the same:</br>
 ![rosgraph_unity](https://user-images.githubusercontent.com/61026273/119505620-c39e4c80-bd8a-11eb-84a9-e6fdd1410712.jpg)
 
 ### Gazebo Simulation:
 https://user-images.githubusercontent.com/61026273/119505723-df095780-bd8a-11eb-8cc4-e50be0a9f49a.mp4
 
-The rqt_graph for the same:
+The rqt_graph for the same:</br>
 ![rosgraph_gazebo](https://user-images.githubusercontent.com/61026273/119505869-02cc9d80-bd8b-11eb-8c16-2e5b51f6e621.jpg)
 
 
